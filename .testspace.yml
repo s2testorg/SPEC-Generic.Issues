@@ -1,5 +1,6 @@
 manual:
   issues:
-    provider: generic
+    provider: "jira:s2technologies/TST"
 release:
   - "*"
+commit_status: false
