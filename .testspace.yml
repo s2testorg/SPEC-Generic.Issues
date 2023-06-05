@@ -1,4 +1,5 @@
 manual:
-  
+  issues:
+    provider: generic
 release:
   - "*"
