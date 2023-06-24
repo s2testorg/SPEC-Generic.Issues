@@ -17,7 +17,9 @@ after:
 
 # {{ spec.title }}
 The Test Spec is for **Ad hoc** testing of Issues using GitHub as the "Issue Provider". There is setup and teardown
-fixturing provided: **[Test Project]({{ spec.project }})**
+fixturing provided: 
+
+**[Test Project]({{ spec.project }})**
 
 - **Open** new Issues; add Markdown, Images, and emojis
 - **Close** Issues using GitHub
