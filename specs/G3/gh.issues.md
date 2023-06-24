@@ -16,7 +16,7 @@ after:
 {% if page %} {% assign spec = page %} {% endif %}
 
 # {{ spec.title }}
-The Test Spec is for **Ad hoc** testing of Issues using GitHub as the "Issue Provider". 
+The Test Spec is for **Ad hoc** testing of Issues using GitHub as the "Issue Provider".
 
 There is setup and teardown fixturing provided: **[Test Project]({{ spec.project }})**
 
@@ -26,8 +26,6 @@ There is setup and teardown fixturing provided: **[Test Project]({{ spec.project
 - Review the **Issues References** and **Issues Metrics** views
 - Do random stuff :monkey_face:
 
-Also use Testspace in a random and uplanned way. If there are problems, capture them using a test case.
-Also add Observation below.
 
 ## Open
 
